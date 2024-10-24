@@ -1,2 +1,7 @@
-# op-ed-section
-Random thoughts, big questions, and occasional rants. Welcome to my collection of musings, where no topic is too small or too weird for a good old-fashioned opinion piece. Grab a coffee (or Matcha) and dive in!
+# Op-ed section
+
+#### author: Jędrzej Wydra
+
+## History
+
+Life isn’t just about academic papers, data science, programming, and serious legal stuff. Sometimes, it’s nice to take a break and share a few thoughts about the world—or whatever comes to mind! This section is my collection of op-eds, where I’ve gathered random musings and essays that found their home on Medium. Occasionally, a few bonus materials lurk around. So, dive in for a light read and enjoy the break from the heavy lifting of science and code!
